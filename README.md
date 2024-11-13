@@ -1,8 +1,8 @@
--- This is Nova Liu.
+Nova Liu
 
--- Work for @Orbiter-Finance
+Work for @Orbiter-Finance
 
--- How to reach me: nova577metaverse@gmail.com
+Reach me: nova577metaverse@gmail.com
 
 <!---
 nova577metaverse/nova577metaverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
