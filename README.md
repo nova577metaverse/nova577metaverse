@@ -1,4 +1,4 @@
-Nova.Liu, SDE, Work For KuCoin.
+Nova.Liu, SDE, Work For WEB3.
 
 ![Metrics](/github-metrics.svg)
 
